@@ -3,11 +3,12 @@ The scripts are written in JavaScript and utilize the Page Object Model (POM) de
 
 By Default I have it in headless mode you can change that on line 22 in the playwright.config.js file
 
-Prerequisites
+# Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
-Node.js installed on your machine
-Git installed on your machine
+1. Node.js installed on your machine
+2. Git installed on your machine
 
 # Installation
 To set up the project on your local machine, follow these steps:
